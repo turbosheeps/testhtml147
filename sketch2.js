@@ -97,7 +97,7 @@ function clearClass(classIndex) {
 }
 
 function win(){
-	cdn.innerHTML = "恭喜得到富康折價卷100元";
+	cdn.innerHTML = "恭喜得到富康折價卷100元!!!";
 	cdn.style.display = "";
 	countdown_num = 5;
 	document.getElementById("myImg").src = "";
